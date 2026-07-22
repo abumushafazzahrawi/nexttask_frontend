@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787893324129",
+    "project_id": "nextask-project",
+    "storage_bucket": "nextask-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787893324129:android:df4134a457009c6f5c9d20",
+        "android_client_info": {
+          "package_name": "com.example.nextask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqxyG--p19EjQW9uSNIa2GT8wCLC4CuMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
